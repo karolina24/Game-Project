@@ -1,2 +1,2 @@
 # gra.github.io
-link do gry: https://karolina24.github.io/gra.github.io/index.html
+link do gry: https://karolina24.github.io/gra.github.io/
