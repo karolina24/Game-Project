@@ -1,6 +1,7 @@
-# Gra "Żabka łapie muchę"
-Gra robiona w ramach przedmiotu na studiach uczącego html, css i js.
+# Game "Żabka łapie muchę" | "Froggy catches a fly"
 
-link do gry: https://karolina24.github.io/gra_spadajace_obiekty/
+Website game made for a course at university teaching html, css and js.
+
+link: https://karolina24.github.io/gra_spadajace_obiekty/
 
 
