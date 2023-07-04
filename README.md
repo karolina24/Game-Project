@@ -2,6 +2,5 @@
 
 Website game made for a course at university teaching html, css and js.
 
-link: https://karolina24.github.io/gra_spadajace_obiekty/
-
+link: https://karolina24.github.io/Game-Project/
 
